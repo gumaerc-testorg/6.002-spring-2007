@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-002-circuits-and-electronics-spring-2007/e6224ea101646c756e6fe376ec52fa56_AfQxyVuLeCs.pdf
+file: /media/courses/6-002-circuits-and-electronics-spring-2007/e6224ea101646c756e6fe376ec52fa56_AfQxyVuLeCs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: e6224ea1-0164-6c75-6e6f-e376ec52fa56

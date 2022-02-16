@@ -2,14 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](resources/6002_l11 \"Open in a new window.\"\
+  ))  \nDemonstration: IDS vs. VDS load line ([PDF](resources/demo_10 \"Open in a\
+  \ new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Small Signal Circuits'
 uid: 06a5b568-ebe5-7278-9bc1-2135907e523d
 video_files:
   archive_url: http://www.archive.org/download/MIT6.002S07/ocw-6.002-lec-mit-10250-14oct2003-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-002-circuits-and-electronics-spring-2007/853631ee24e257caa1210c24c3541894_R4KxlqsuZ0A.vtt
+  video_captions_file: /courses/6-002-circuits-and-electronics-spring-2007/853631ee24e257caa1210c24c3541894_R4KxlqsuZ0A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/R4KxlqsuZ0A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-002-circuits-and-electronics-spring-2007/0c685c55c65225543fe56ee2b831975e_R4KxlqsuZ0A.pdf
+  video_transcript_file: /courses/6-002-circuits-and-electronics-spring-2007/0c685c55c65225543fe56ee2b831975e_R4KxlqsuZ0A.pdf
 video_metadata:
   youtube_id: R4KxlqsuZ0A
 ---

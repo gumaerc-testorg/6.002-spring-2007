@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-002-circuits-and-electronics-spring-2007/516dc2f563e55ec3a35f9a3642853573_AfQxyVuLeCs.vtt
+file: /media/courses/6-002-circuits-and-electronics-spring-2007/516dc2f563e55ec3a35f9a3642853573_AfQxyVuLeCs.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 516dc2f5-63e5-5ec3-a35f-9a3642853573

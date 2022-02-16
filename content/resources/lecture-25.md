@@ -2,14 +2,28 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "**Lecture 24**\n\nLecture notes ([PDF](resources/6002_l24\
+  \ \"Open in a new window.\"))  \nDemonstration: Boost converter ([PDF](resources/demo_28\
+  \ \"Open in a new window.\"))  \nDemonstration: Diode circuits and characteristic\
+  \ ([PDF](resources/demo_25 \"Open in a new window.\"))\n\n**Lecture 25**\n\nLecture\
+  \ notes ([PDF](resources/6002_l25 \"Open in a new window.\"))  \nDemonstration:\
+  \ Crosstalk ([PDF](resources/demo_19 \"Open in a new window.\"))  \nDemonstration:\
+  \ Impedance matching ([PDF](resources/demo_19b \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Violating the Abstraction Barrier'
 uid: b1f88029-b907-3e09-23a3-a6ca581e6d52
 video_files:
   archive_url: http://www.archive.org/download/MIT6.002S07/ocw-6.002-lec-mit-10250-09dec2003-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-002-circuits-and-electronics-spring-2007/aae1fdb408e357d4bfe3e63dff69171a_dyxcCoUgETU.vtt
+  video_captions_file: /courses/6-002-circuits-and-electronics-spring-2007/aae1fdb408e357d4bfe3e63dff69171a_dyxcCoUgETU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dyxcCoUgETU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-002-circuits-and-electronics-spring-2007/3d03e2ab93e4c46dd5f15ef41c98b873_dyxcCoUgETU.pdf
+  video_transcript_file: /courses/6-002-circuits-and-electronics-spring-2007/3d03e2ab93e4c46dd5f15ef41c98b873_dyxcCoUgETU.pdf
 video_metadata:
   youtube_id: dyxcCoUgETU
 ---
