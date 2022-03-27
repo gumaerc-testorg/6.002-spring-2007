@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l19 \"Open in a new
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: The Operational Amplifier Abstraction'
 uid: 4aa4220d-c30f-836d-d684-8ba21f591686
 video_files:

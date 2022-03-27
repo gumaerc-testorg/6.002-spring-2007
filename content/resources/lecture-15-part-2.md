@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l15b \"Open in a ne
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Second-Order Systems (part 2)'
 uid: 39f89db1-f563-14c3-f12e-b1dfbc5f21ab
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 9b4a2ba7-a556-b234-8b0c-3f1bdd4fa8ab
 resourcetype: Document
 title: demo_22.pdf
 uid: 1e0f2c88-3870-fc08-a78e-cfee1c5ef673

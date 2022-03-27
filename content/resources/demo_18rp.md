@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 9b4a2ba7-a556-b234-8b0c-3f1bdd4fa8ab
 resourcetype: Document
 title: demo_18rp.pdf
 uid: e264f917-2ec6-471b-0d7d-e55866653812

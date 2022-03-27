@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l8 \"Open in a new 
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Dependent Sources and Amplifiers'
 uid: eaf60af4-064b-5d6c-465d-22833456c412
 video_files:

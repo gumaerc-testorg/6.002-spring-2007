@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l20 \"Open in a new
   \ network ([PDF](resources/demo_17a \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 20: Operational Amplifier Circuits'
 uid: 406b8588-8e78-4963-7303-1ef92300ad37
 video_files:

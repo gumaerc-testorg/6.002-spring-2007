@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l22 \"Open in a new
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Energy and Power'
 uid: 90779581-eef9-3b56-24c9-0b75bdfdc5f2
 video_files:

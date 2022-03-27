@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l3 \"Open in a new 
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 3: Superposition, Th\xE9venin and Norton"
 uid: 5bf128fe-fa59-5ece-9879-0a6a90657417
 video_files:

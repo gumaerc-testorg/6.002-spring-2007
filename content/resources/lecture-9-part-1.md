@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l9 \"Open in a new 
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Mosfet Amplifier Large Signal Analysis (part 1)'
 uid: 6b64779b-5126-fd1f-7536-e398e31f8bba
 video_files:

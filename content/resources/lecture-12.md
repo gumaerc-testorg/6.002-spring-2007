@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l12 \"Open in a new
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Capacitors and First-Order Systems'
 uid: 735531e0-e501-fe40-dfa3-c3a46473c715
 video_files:

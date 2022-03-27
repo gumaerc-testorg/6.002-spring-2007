@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l5 \"Open in a new 
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Inside the Digital Gate'
 uid: 4f0054f5-076b-953d-b7fe-572d6d701a2a
 video_files:

@@ -75,9 +75,9 @@ Second-order networks ([PDF]({{< baseurl >}}/resources/lab3))
 {{< tdopen >}}
 
 
-Prelab 3-2 ([M](/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/labs/prelab_3_2.m))
+Prelab 3-2 ([M]({{< baseurl >}}/resources/prelab_3_2))
 
-Prelab 3-5 ([M](/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/labs/prelab_3_5.m))
+Prelab 3-5 ([M]({{< baseurl >}}/resources/prelab_3_5))
 
 
 {{< tdclose >}}

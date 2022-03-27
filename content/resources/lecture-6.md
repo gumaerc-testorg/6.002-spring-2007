@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l6 \"Open in a new 
   ))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Nonlinear Analysis'
 uid: 2bdb3b7e-5ed0-12f5-d292-ea9761f2e98f
 video_files:

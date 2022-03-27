@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l1 \"Open in a new 
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction and Lumped Abstraction'
 uid: 94706375-90ae-728e-2772-5adc3377a2ce
 video_files:

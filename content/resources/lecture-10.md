@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l10 \"Open in a new
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Amplifiers - Small Signal Model'
 uid: 3cd676bf-13e8-3155-e604-a18997f6c102
 video_files:

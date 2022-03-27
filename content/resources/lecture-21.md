@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l21 \"Open in a new
   \ a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Op Amps Positive Feedback'
 uid: 786a3d13-34f2-0386-c437-9b2e866b3691
 video_files:

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b8f61f37-6630-251b-b063-4589f052d6ca
 resourcetype: Document
 title: eesafety.pdf
 uid: 4232f38c-3f2a-8855-8a44-f62beb490698

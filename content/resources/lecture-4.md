@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l4 \"Open in a new 
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: The Digital Abstraction'
 uid: 34fd3c70-c116-8fe8-e9fa-13c57bab8293
 video_files:

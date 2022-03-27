@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -17,6 +18,7 @@ related_resources_text: "**Lecture 24**\n\nLecture notes ([PDF](resources/6002_l
   \ Impedance matching ([PDF](resources/demo_19b \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 25: Violating the Abstraction Barrier'
 uid: b1f88029-b907-3e09-23a3-a6ca581e6d52
 video_files:

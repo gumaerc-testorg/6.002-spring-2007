@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture notes ([PDF](resources/6002_l18 \"Open in a new
   \ \"Open in a new window.\"))  \nDemonstration: Parallel LC radio ([PDF](resources/demo_27))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Filters'
 uid: b73cf7ac-8b4d-d35b-59f2-4e1f4a3c2edd
 video_files:

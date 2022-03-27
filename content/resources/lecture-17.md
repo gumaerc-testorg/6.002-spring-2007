@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: "Lecture Notes ([PDF](resources/6002_l17 \"Open in a new
   \ new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: The Impedance Model'
 uid: 1f5322b8-16e4-98b4-c64e-420083745801
 video_files:
