@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/6-002-circuits-and-electronics-spring-2007/ac0919d3742da5f07cc73d372fc9942e_thumb_lec05.jpg
+file: /courses/6-002-circuits-and-electronics-spring-2007/ac0919d3742da5f07cc73d372fc9942e_thumb_lec05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,4 +12,10 @@ ocw_type: OCWImage
 resourcetype: Image
 title: thumb_lec05.jpg
 uid: ac0919d3-742d-a5f0-7cc7-3d372fc9942e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

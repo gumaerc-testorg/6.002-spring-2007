@@ -5,14 +5,14 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/6002_l22 \"Open in a new window.\"\
-  ))  \nDemonstration: Energy and power in RC network ([PDF](resources/demo_18 \"\
-  Open in a new window.\"))  \nDemonstration: Energy and power in CMOS ([PDF](resources/demo_18rp\
-  \ \"Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l22))\
+  \  \nDemonstration: Energy and power in RC network ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_18))\
+  \  \nDemonstration: Energy and power in CMOS ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_18rp))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Topics covered:** Energy and power
 
 **Instructor:** Prof. Anant Agarwal
+
+
+

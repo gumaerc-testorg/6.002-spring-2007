@@ -5,14 +5,14 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture notes ([PDF](resources/6002_l13 \"Open in a new window.\"\
-  ))  \nDemonstration: Gate delay ([PDF](resources/demo_11 \"Open in a new window.\"\
-  ))  \nDemonstration: Crosstalk ([PDF](resources/demo_19 \"Open in a new window.\"\
-  ))"
+related_resources_text: "Lecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l13))\
+  \  \nDemonstration: Gate delay ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_11))\
+  \  \nDemonstration: Crosstalk ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_19))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Topics covered:** Digital circuit speed
 
 **Instructor:** Prof. Anant Agarwal
+
+
+

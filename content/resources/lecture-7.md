@@ -5,13 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture notes ([PDF](resources/6002_l7 \"Open in a new window.\"\
-  ))  \nDemonstration: Nonlinear device ([PDF](resources/demo_04 \"Open in a new window.\"\
-  ))"
+related_resources_text: "Lecture notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l7))\
+  \  \nDemonstration: Nonlinear device ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_04))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -29,3 +29,6 @@ video_metadata:
 **Topics covered:** Incremental analysis
 
 **Instructor:** Prof. Anant Agarwal
+
+
+

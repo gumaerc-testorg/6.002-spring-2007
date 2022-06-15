@@ -5,14 +5,14 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF](resources/6002_l10 \"Open in a new window.\"\
-  ))  \nDemonstration: MOSFET inverting amplifier-small signal ([PDF](resources/demo_09\
-  \ \"Open in a new window.\"))  \nDemonstration: IDS vs. VDS load line ([PDF](resources/demo_10\
-  \ \"Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/6002_l10))\
+  \  \nDemonstration: MOSFET inverting amplifier-small signal ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_09))\
+  \  \nDemonstration: IDS vs. VDS load line ([PDF](/courses/6-002-circuits-and-electronics-spring-2007/resources/demo_10))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Topics covered:** Amplifiers - small signal model
 
 **Instructor:** Prof. Anant Agarwal
+
+
+
