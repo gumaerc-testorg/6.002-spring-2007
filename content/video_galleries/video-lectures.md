@@ -1,8 +1,17 @@
 ---
 content_type: video_gallery
+description: This section contains the list of video lectures covered in the course.
+draft: false
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 9b4a2ba7-a556-b234-8b0c-3f1bdd4fa8ab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 94706375-90ae-728e-2772-5adc3377a2ce
@@ -33,10 +42,8 @@ videos:
   - b1f88029-b907-3e09-23a3-a6ca581e6d52
   website: 6-002-circuits-and-electronics-spring-2007
 ---
-
 The course materials for 6.002 were last updated in Spring 2007. However, the lecture notes, demos, and videos presented in this section are taken from the Fall 2000 version.
 
-Video for Lecture 24 is not available. Resources from this session may be found alongside the materials from [Lecture 25]({{< baseurl >}}/pages/video-lectures/lecture-25).
+Video for Lecture 24 is not available. Resources from this session may be found alongside the materials from {{% resource_link b1f88029-b907-3e09-23a3-a6ca581e6d52 "Lecture 25: Violating the Abstraction Barrier" %}}.
 
 {{< video-gallery "9b4a2ba7-a556-b234-8b0c-3f1bdd4fa8ab" >}}
-

@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The calendar section lists the lecture topics, recitations and quizzes
+  covered in the course along with the assignment key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 00ece47d-b258-a468-e01f-c481743295a3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar provides information on the course's lecture (L), recitation (R), and quiz (Q) sessions.

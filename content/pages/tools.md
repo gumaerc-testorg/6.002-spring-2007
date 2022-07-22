@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section contains link to WebSim site.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 1ed78b87-a551-8c48-b52c-8a74a017d1bf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 WebSim
