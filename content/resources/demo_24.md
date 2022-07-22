@@ -5,6 +5,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/17adde8cc675b348d6d2a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains domonstration on opamp.
-

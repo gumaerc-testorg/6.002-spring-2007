@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -35,6 +36,4 @@ video_metadata:
 **Topics covered (lecture 25):** Violating the abstraction barrier
 
 **Instructor:** Prof. Anant Agarwal
-
-
 

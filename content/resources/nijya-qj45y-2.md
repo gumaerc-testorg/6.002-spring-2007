@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-002-circuits-and-electronics-spring-2007/1de5408f98945e04a78bed087f39cabe_Nijya-QJ45Y.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

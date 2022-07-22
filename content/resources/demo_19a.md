@@ -7,6 +7,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/23134a1c58bccb5612cc49
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a demo showing the inductive effect of long wires by showing voltage spikes on a power supply with a long lead when steps in current occur (due to switching of an inverter state).
-

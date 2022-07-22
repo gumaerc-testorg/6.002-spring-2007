@@ -7,6 +7,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/d31f7bc824ceb3d0678e83
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a demo showing how an RC circuit can approximate either an integrator (capacitor voltage at high frequencies) or a differentiator (resistor voltage at low frequencies).
-

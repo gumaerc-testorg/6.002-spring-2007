@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-002-circuits-and-electronics-spring-2007/1d25d907dd9942853e9c7caa4f21067c_V0z_f7qxLcY.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

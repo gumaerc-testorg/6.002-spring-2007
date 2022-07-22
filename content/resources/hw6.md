@@ -5,6 +5,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/95e622ad8c877e6c14daaf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about a two-terminal device formed by a MOSFET.
-

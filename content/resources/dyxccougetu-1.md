@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-002-circuits-and-electronics-spring-2007/3d03e2ab93e4c46dd5f15ef41c98b873_dyxcCoUgETU.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

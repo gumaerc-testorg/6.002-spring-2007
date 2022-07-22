@@ -6,6 +6,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/f2d71e7c6e5b3bb640a6d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on topics demonstrates an RLC filter to pickup AM radio, circuit diagrams and waveforms.
-

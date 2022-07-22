@@ -5,6 +5,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/872936cb0b263ea66a77b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a demo file.
-

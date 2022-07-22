@@ -5,6 +5,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/3f3668c71e80478edb84cc
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a quiz file.
-

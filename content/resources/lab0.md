@@ -5,6 +5,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/8bb4e0f80644d9414bb7cd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource focus on lab and its use: good lab practice, and lab safcty
-

@@ -6,6 +6,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/3869d6abe7f912065ec6b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a demo which shows the amplification of small waveforms using a MOSFET, along with the limitations of such an amplifier.
-

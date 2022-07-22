@@ -6,6 +6,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/04c5b9d07519db0f7d6a14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This recource contains a demo presenting a picture of the MOSFET amplifier behavior by displaying a load line over a set of (premade) MOSFET i-v curves.
-

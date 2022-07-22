@@ -6,6 +6,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/11771c2adc52f05d65c3fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a demo showing the behavior of an (inverting) op-amp integrator and differentiator.
-

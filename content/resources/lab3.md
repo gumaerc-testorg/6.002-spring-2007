@@ -6,6 +6,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/d96ecf98f18cefe60249e8
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 The purpose of this lab is to give experience with second-order networks, and to illustrate that real network elements do not always behave in an ideal manner.
-

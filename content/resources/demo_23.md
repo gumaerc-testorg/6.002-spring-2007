@@ -5,6 +5,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/6c083e5c1e2a184afa7680
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains domonstration on resonant LC circuit.
-

@@ -7,6 +7,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/b6bc10372b60f151e845da
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a demonstration showing the magnitude and phase plots for an RC lowpass filter on the Dynamic Signal Analyzer. Also allow students to hear the sine tone.
-

@@ -6,6 +6,7 @@ file: /courses/6-002-circuits-and-electronics-spring-2007/78ffb2358df6708444c4b0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource discusses about The number of Boolean functions of one variable.
-
