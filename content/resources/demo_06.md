@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a demo file.
 file: /courses/6-002-circuits-and-electronics-spring-2007/b268acba2f5c12be344b2c565f45faab_demo_06.pdf
+file_size: 43114
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

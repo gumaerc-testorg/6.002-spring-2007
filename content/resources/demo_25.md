@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains characteristic of diode circuits and waveforms.
 file: /courses/6-002-circuits-and-electronics-spring-2007/db731f0bf27547ce1b8570eaec5821d5_demo_25.pdf
+file_size: 24888
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

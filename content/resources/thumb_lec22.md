@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/6-002-circuits-and-electronics-spring-2007/0780c747aeac41c23697233dde363c87_thumb_lec22.jpg
+file_size: 1941
 file_type: image/jpeg
 image_metadata:
   caption: ''

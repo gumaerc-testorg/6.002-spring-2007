@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-002-circuits-and-electronics-spring-2007/499f14404345c660a9aaf0dd5e20e13d_dyxcCoUgETU.srt
+file_size: 56020
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

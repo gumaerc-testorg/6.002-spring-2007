@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics oscilloscope setup, waveform
   generator setup, power supply setup and circuit diagrams.
 file: /courses/6-002-circuits-and-electronics-spring-2007/734efd5f91004b3eef9f15517a79f3b7_demo_21rp.pdf
+file_size: 30040
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

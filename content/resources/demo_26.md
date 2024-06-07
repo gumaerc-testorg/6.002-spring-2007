@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains waveforms of RC response.
 file: /courses/6-002-circuits-and-electronics-spring-2007/c73df9e08d970dd50f5d2d273067ec0c_demo_26.pdf
+file_size: 25316
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
