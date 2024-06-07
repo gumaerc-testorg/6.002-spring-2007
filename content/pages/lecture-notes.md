@@ -12,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-This section contains lecture notes from the Fall 2000 version of the course. These notes can also be found in the [Video Lectures]({{< baseurl >}}/pages/video-lectures) section, under the Related Resources tab for each video. Demonstration handouts can be found there as well.
+This section contains lecture notes from the Fall 2000 version of the course. These notes can also be found in the {{% resource_link "9b4a2ba7-a556-b234-8b0c-3f1bdd4fa8ab" "Video Lectures" %}} section, under the Related Resources tab for each video. Demonstration handouts can be found there as well.
 
 Notes for Lecture 24 are not available.
 

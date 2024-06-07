@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout discusses aspects of the experimental lab work.
 file: /courses/6-002-circuits-and-electronics-spring-2007/8d05b0f4d4ce5dab988346463658efa7_labpractices.pdf
+file_size: 190897
 file_type: application/pdf
 learning_resource_types:
 - Labs

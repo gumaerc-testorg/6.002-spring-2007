@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses about Thevenin equivalen and amplifiers.
 file: /courses/6-002-circuits-and-electronics-spring-2007/e26921fde419a3632a4241786551171e_hw5.pdf
+file_size: 182605
 file_type: application/pdf
 learning_resource_types:
 - Assignments

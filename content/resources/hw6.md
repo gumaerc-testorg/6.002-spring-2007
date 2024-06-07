@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses about a two-terminal device formed by a MOSFET.
 file: /courses/6-002-circuits-and-electronics-spring-2007/95e622ad8c877e6c14daafecc0b09516_hw6.pdf
+file_size: 68326
 file_type: application/pdf
 learning_resource_types:
 - Assignments

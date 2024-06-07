@@ -3,6 +3,7 @@ content_type: resource
 description: This recource contains a demo presenting a picture of the MOSFET amplifier
   behavior by displaying a load line over a set of (premade) MOSFET i-v curves.
 file: /courses/6-002-circuits-and-electronics-spring-2007/04c5b9d07519db0f7d6a145175be86e2_demo_10.pdf
+file_size: 42869
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

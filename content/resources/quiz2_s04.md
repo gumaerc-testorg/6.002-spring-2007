@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a quiz file.
 file: /courses/6-002-circuits-and-electronics-spring-2007/3f3668c71e80478edb84cc2130fda230_quiz2_s04.pdf
+file_size: 73015
 file_type: application/pdf
 learning_resource_types:
 - Exams
