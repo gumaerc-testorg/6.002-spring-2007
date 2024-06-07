@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains input output waveforms of a boost converter.
 file: /courses/6-002-circuits-and-electronics-spring-2007/e8ee0bb462d26ef0f72da6f87928ed75_demo_28.pdf
+file_size: 35014
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
