@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about The number of Boolean functions of one
   variable.
-file: /courses/6-002-circuits-and-electronics-spring-2007/78ffb2358df6708444c4b05fc44f920c_hw3.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/78ffb2358df6708444c4b05fc44f920c_hw3.pdf
 file_size: 86420
 file_type: application/pdf
 learning_resource_types:

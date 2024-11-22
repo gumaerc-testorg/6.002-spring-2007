@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-002-circuits-and-electronics-spring-2007/bf513499ae27bda0c2eee1f9c12a465e_WT-qzgaKeGI.srt
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/bf513499ae27bda0c2eee1f9c12a465e_WT-qzgaKeGI.srt
 file_size: 51040
 file_type: application/x-subrip
 learning_resource_types: []

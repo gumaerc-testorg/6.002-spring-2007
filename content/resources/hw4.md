@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about voltage source, the non-ideal voltage and
   Zener diode.
-file: /courses/6-002-circuits-and-electronics-spring-2007/457f2ef8b94f22ec16e3ff52705c89e6_hw4.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/457f2ef8b94f22ec16e3ff52705c89e6_hw4.pdf
 file_size: 75150
 file_type: application/pdf
 learning_resource_types:
