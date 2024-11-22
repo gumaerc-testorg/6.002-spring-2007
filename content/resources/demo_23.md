@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains domonstration on resonant LC circuit.
-file: /courses/6-002-circuits-and-electronics-spring-2007/6c083e5c1e2a184afa76806a70889ce7_demo_23.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/6c083e5c1e2a184afa76806a70889ce7_demo_23.pdf
 file_size: 26662
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is a supporting file for the third lab - Second-order networks.
-file: /courses/6-002-circuits-and-electronics-spring-2007/4827e30131a67ab9d7491d2b8c6d5692_prelab_3_2.m
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/4827e30131a67ab9d7491d2b8c6d5692_prelab_3_2.m
 file_size: 877
 file_type: text/plain
 learning_resource_types:

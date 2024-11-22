@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the behavior and application of anew field
   effect transistor (New FET)with large-signal electrical characteristics
-file: /courses/6-002-circuits-and-electronics-spring-2007/83a70cc0d4a8f73b2dfc8ed329949367_hw7.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/83a70cc0d4a8f73b2dfc8ed329949367_hw7.pdf
 file_size: 76845
 file_type: application/pdf
 learning_resource_types:

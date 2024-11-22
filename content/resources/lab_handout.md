@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout is intended to provide a brief technical overview of the
   lab instruments like the oscilloscope, multimeter, function generator, and the protoboard.
-file: /courses/6-002-circuits-and-electronics-spring-2007/992c85451e40984a2b3a6f4878bb1a76_lab_handout.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/992c85451e40984a2b3a6f4878bb1a76_lab_handout.pdf
 file_size: 643613
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource focus on lab and its use: good lab practice, and lab safcty'
-file: /courses/6-002-circuits-and-electronics-spring-2007/8bb4e0f80644d9414bb7cd3b1364e8e3_lab0.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/8bb4e0f80644d9414bb7cd3b1364e8e3_lab0.pdf
 file_size: 33426
 file_type: application/pdf
 learning_resource_types:
