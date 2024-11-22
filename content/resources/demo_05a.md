@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a demo file.
-file: /courses/6-002-circuits-and-electronics-spring-2007/71bca38a4c023fd66921cee9132c44ab_demo_05a.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/71bca38a4c023fd66921cee9132c44ab_demo_05a.pdf
 file_size: 42121
 file_type: application/pdf
 learning_resource_types:
