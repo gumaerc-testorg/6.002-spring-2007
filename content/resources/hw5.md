@@ -1,22 +1,33 @@
 ---
 content_type: resource
 description: This resource discusses about Thevenin equivalen and amplifiers.
-file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/e26921fde419a3632a4241786551171e_hw5.pdf
+draft: false
+file: /courses/6-002-circuits-and-electronics-spring-2007/e26921fde419a3632a4241786551171e_hw5.pdf
 file_size: 182605
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Assignments
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: e106059b-2e3b-50c2-726d-a543c775c9c6
 resourcetype: Document
-title: hw5.pdf
+title: Homework 5
 uid: e26921fd-e419-a363-2a42-41786551171e
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource discusses about Thevenin equivalen and amplifiers.
