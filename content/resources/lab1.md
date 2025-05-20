@@ -2,9 +2,14 @@
 content_type: resource
 description: This resource explores the characterization of a network by its Thevenin
   and Norton equivalents.
-file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/56d60da013efade4a97056c23c4c9c5a_lab1.pdf
+draft: false
+file: /courses/6-002-circuits-and-electronics-spring-2007/56d60da013efade4a97056c23c4c9c5a_lab1.pdf
 file_size: 1358166
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Labs
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,11 +18,17 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: b8f61f37-6630-251b-b063-4589f052d6ca
 resourcetype: Document
-title: lab1.pdf
+title: Thevenin/Norton equivalents and logic gates
 uid: 56d60da0-13ef-ade4-a970-56c23c4c9c5a
 video_files:
-  video_thumbnail_file: null
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This resource explores the characterization of a network by its Thevenin and Norton equivalents.
