@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/8d6365ab435a2441f6a391631102c376_Nijya-QJ45Y.pdf
+file: /courses/6-002-circuits-and-electronics-spring-2007/8d6365ab435a2441f6a391631102c376_Nijya-QJ45Y.pdf
 file_size: 54100
 file_type: application/pdf
 learning_resource_types: []
