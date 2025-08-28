@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/6-002-circuits-and-electronics-spring-2007/e0e20721b66134a7c167e7fca86e5a4c_thumb_lec16.jpg
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/e0e20721b66134a7c167e7fca86e5a4c_thumb_lec16.jpg
 file_size: 2167
 file_type: image/jpeg
 image_metadata:
