@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource is a supporting file for 3rd lab second-order networks.
-file: /courses/6-002-circuits-and-electronics-spring-2007/f10a3299a966e84a1205e89c1a960c10_prelab_3_5.m
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/f10a3299a966e84a1205e89c1a960c10_prelab_3_5.m
 file_size: 919
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

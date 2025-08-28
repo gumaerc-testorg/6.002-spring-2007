@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource focus on lab and its use: good lab practice, and lab safcty'
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/8bb4e0f80644d9414bb7cd3b1364e8e3_lab0.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/8bb4e0f80644d9414bb7cd3b1364e8e3_lab0.pdf
 file_size: 33426
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

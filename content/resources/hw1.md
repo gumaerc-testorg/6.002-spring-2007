@@ -3,7 +3,7 @@ content_type: resource
 description: This resource discusses about voltage across and the current through
   each element in the network and polarity of the voltages.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/ab181ec7aec9431046763e8dd8f55286_hw1.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/ab181ec7aec9431046763e8dd8f55286_hw1.pdf
 file_size: 40134
 file_type: application/pdf
 image_metadata:

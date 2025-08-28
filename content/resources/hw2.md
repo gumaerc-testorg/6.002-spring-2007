@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about resistance, node method and matrix of conductance.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/15878f74dcca61c4298c957999778bc0_hw2.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/15878f74dcca61c4298c957999778bc0_hw2.pdf
 file_size: 83964
 file_type: application/pdf
 image_metadata:

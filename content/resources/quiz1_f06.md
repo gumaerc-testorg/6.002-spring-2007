@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a quiz file.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/30af3faaaae25b7115141a1f7fcf9434_quiz1_f06.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/30af3faaaae25b7115141a1f7fcf9434_quiz1_f06.pdf
 file_size: 91934
 file_type: application/pdf
 image_metadata:
