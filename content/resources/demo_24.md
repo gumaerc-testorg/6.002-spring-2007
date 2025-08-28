@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains domonstration on opamp.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/17adde8cc675b348d6d2a6036e812159_demo_24.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/17adde8cc675b348d6d2a6036e812159_demo_24.pdf
 file_size: 39648
 file_type: application/pdf
 image_metadata:

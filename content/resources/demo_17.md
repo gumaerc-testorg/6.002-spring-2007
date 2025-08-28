@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a demo showing the behavior of an (inverting)
   op-amp integrator and differentiator.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/11771c2adc52f05d65c3fc27fdacdc58_demo_17.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/11771c2adc52f05d65c3fc27fdacdc58_demo_17.pdf
 file_size: 35364
 file_type: application/pdf
 image_metadata:

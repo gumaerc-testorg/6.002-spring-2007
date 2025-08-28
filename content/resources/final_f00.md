@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a final exam file.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/0cb29e28115d9dfa9c44c2545111ce84_final_f00.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/0cb29e28115d9dfa9c44c2545111ce84_final_f00.pdf
 file_size: 146166
 file_type: application/pdf
 image_metadata:

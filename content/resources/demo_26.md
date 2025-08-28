@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains waveforms of RC response.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/c73df9e08d970dd50f5d2d273067ec0c_demo_26.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/c73df9e08d970dd50f5d2d273067ec0c_demo_26.pdf
 file_size: 25316
 file_type: application/pdf
 image_metadata:

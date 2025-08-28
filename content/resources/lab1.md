@@ -3,7 +3,7 @@ content_type: resource
 description: This resource explores the characterization of a network by its Thevenin
   and Norton equivalents.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/56d60da013efade4a97056c23c4c9c5a_lab1.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/56d60da013efade4a97056c23c4c9c5a_lab1.pdf
 file_size: 1358166
 file_type: application/pdf
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a demo file.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/c2180a1c18e05b10f08d40b994d676fa_demo_08.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/c2180a1c18e05b10f08d40b994d676fa_demo_08.pdf
 file_size: 29270
 file_type: application/pdf
 image_metadata:

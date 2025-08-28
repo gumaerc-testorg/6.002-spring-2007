@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains circuit diagrams on schmitt trigger.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/ec4b5e1821ffc200c6dbfdb1a040393b_demo_21.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/ec4b5e1821ffc200c6dbfdb1a040393b_demo_21.pdf
 file_size: 38372
 file_type: application/pdf
 image_metadata:

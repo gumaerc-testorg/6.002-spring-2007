@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a demo examining second order responses using
   two cascaded inverters.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/2fdcfd3b2b6e72a3cacf6f54e68e3485_demo_12.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/2fdcfd3b2b6e72a3cacf6f54e68e3485_demo_12.pdf
 file_size: 35467
 file_type: application/pdf
 image_metadata:

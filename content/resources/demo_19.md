@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a demo showing the capacitive coupling between
   signals on two separate wires in proximity.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/20f7378078ab6e3fe00ea748ab213e3e_demo_19.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/20f7378078ab6e3fe00ea748ab213e3e_demo_19.pdf
 file_size: 30939
 file_type: application/pdf
 image_metadata:

@@ -5,7 +5,7 @@ description: This resource contains a demo showing the effects of delay (the spe
   in 6.002, various length cables are attached to a square wave input and the oscilloscope
   (also at the input).
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/d501e3923e26066ec89d99152544fbba_demo_19b.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/d501e3923e26066ec89d99152544fbba_demo_19b.pdf
 file_size: 30535
 file_type: application/pdf
 image_metadata:
