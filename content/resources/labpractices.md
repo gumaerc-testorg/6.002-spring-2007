@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout discusses aspects of the experimental lab work.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/8d05b0f4d4ce5dab988346463658efa7_labpractices.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/8d05b0f4d4ce5dab988346463658efa7_labpractices.pdf
 file_size: 190897
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

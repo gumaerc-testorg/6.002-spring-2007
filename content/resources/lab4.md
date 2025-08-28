@@ -3,7 +3,7 @@ content_type: resource
 description: In this lab, one will construct, test and demonstrate the audio playback
   system.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/33d6731c206313c3addd121084d9f3b1_lab4.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/33d6731c206313c3addd121084d9f3b1_lab4.pdf
 file_size: 93424
 file_type: application/pdf
 image_metadata:
@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

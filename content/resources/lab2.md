@@ -2,7 +2,7 @@
 content_type: resource
 description: This lab examines the behavior of an inverting MOSFET amplifier.
 draft: false
-file: /courses/6-002-circuits-and-electronics-spring-2007/56c767318f89cccd7448ac5e8af375bf_lab2.pdf
+file: /ol-ocw-studio-app/courses/6-002-circuits-and-electronics-spring-2007/56c767318f89cccd7448ac5e8af375bf_lab2.pdf
 file_size: 194477
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
