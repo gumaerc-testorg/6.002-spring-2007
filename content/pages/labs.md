@@ -55,7 +55,7 @@ Lab familiarization ({{% resource_link 8bb4e0f8-0644-d941-4bb7-cd3b1364e8e3 "PDF
 Thevenin/Norton equivalents and logic gates ({{% resource_link 56d60da0-13ef-ade4-a970-56c23c4c9c5a "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Fairchild Semiconductor](http://www.fairchildsemi.com/) 2N7000 datasheet
+{{% resource_link "ff0c1eb6-67d0-4130-bddd-6e1389e51013" "Fairchild Semiconductor" %}} 2N7000 datasheet
 {{< tdclose >}}
 
 {{< trclose >}}
