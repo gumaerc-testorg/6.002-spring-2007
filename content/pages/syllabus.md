@@ -73,7 +73,7 @@ Textbook
 
 The course textbook is:
 
-Agarwal, Anant, and Jeffrey H. Lang. [_Foundations of Analog and Digital Electronic Circuits_](http://www.elsevierdirect.com/product.jsp?isbn=9781558607354). San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
+Agarwal, Anant, and Jeffrey H. Lang. {{% resource_link "a8a97884-0135-4fdb-9eb9-ad2d7e27bd5f" "_Foundations of Analog and Digital Electronic Circuits_" %}}. San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
 
 Homework
 --------
