@@ -14,11 +14,11 @@ video_metadata:
 ---
 This section contains the course's reading assignments, which refer to the required textbook:
 
-Agarwal, Anant, and Jeffrey H. Lang. [_Foundations of Analog and Digital Electronic Circuits_](http://www.elsevierdirect.com/product.jsp?isbn=9781558607354). San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
+Agarwal, Anant, and Jeffrey H. Lang. {{% resource_link "a8a97884-0135-4fdb-9eb9-ad2d7e27bd5f" "_Foundations of Analog and Digital Electronic Circuits_" %}}. San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.
 
-[View e-book version](http://store.elsevier.com/Foundations-of-Analog-and-Digital-Electronic-Circuits/Anant-Agarwal/isbn-9781558607354/)
+{{% resource_link "d041bd0a-7264-4430-baaa-99abcb9a897e" "View e-book version" %}}
 
-[Elsevier companion site: supplementary sections and examples](http://www.elsevierdirect.com/companion.jsp?ISBN=9781558607354)
+{{% resource_link "8bc56a84-6d7e-458d-bfa2-f109377852a0" "Elsevier companion site: supplementary sections and examples" %}}
 
 Readings with an asterisk (\*) provide key intuitive analyses.
 
